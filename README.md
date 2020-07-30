@@ -1,4 +1,4 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/felipebacelo/Sistema_Cadastro?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/felipebacelo/Suplementos?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/felipebacelo/Suplementos?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/felipebacelo/Suplementos?style=for-the-badge)
 ![GitHub All Releases](https://img.shields.io/github/downloads/felipebacelo/Suplementos/total?style=for-the-badge)
