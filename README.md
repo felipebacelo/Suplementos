@@ -67,7 +67,35 @@ Para isto é necessário:
 ***
 ### Exemplos de Macros Utilizadas
 
-![Image_005](https://github.com/felipebacelo/Suplementos/blob/master/Images/Image_005.png)
+* Macro utilizada para colorir as células seleciondas com erros em vermelho.
+```
+Sub Erros()
+    On Error Resume Next
+    Selection.SpecialCells(xlCellTypeConstants, 16).Interior.Color = 255
+End Sub
+```
+
+* Macro utilizada para converter o valor das células selecionadas em maiúsculas.
+```
+Sub Maiúsculas()
+    Dim iCell As Range
+        On Error Resume Next
+        For Each iCell In Selection
+            iCell = UCase(iCell)
+        Next iCell
+End Sub
+```
+
+* Macro utilizada para converter o valor das células selecionadas em minúsculas.
+```
+Sub Minúsculas()
+    Dim iCell As Range
+        On Error Resume Next
+        For Each iCell In Selection
+            iCell = LCase(iCell)
+        Next iCell
+End Sub
+```
 
 ***
 ### Licenças
