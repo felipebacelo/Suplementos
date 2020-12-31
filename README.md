@@ -68,7 +68,7 @@ Para isto é necessário:
 ### Exemplos de Macros Utilizadas
 
 * Macro utilizada para colorir as células seleciondas com erros em vermelho.
-```
+```vba
 Sub Erros()
     On Error Resume Next
     Selection.SpecialCells(xlCellTypeConstants, 16).Interior.Color = 255
@@ -76,7 +76,7 @@ End Sub
 ```
 
 * Macro utilizada para converter o valor das células selecionadas em maiúsculas.
-```
+```vba
 Sub Maiúsculas()
     Dim iCell As Range
         On Error Resume Next
@@ -87,7 +87,7 @@ End Sub
 ```
 
 * Macro utilizada para converter o valor das células selecionadas em minúsculas.
-```
+```vba
 Sub Minúsculas()
     Dim iCell As Range
         On Error Resume Next
