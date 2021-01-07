@@ -46,15 +46,15 @@ O usuário poderá fixar o ícone de cada macro na _Barra de Ferramentas de Aces
 * Clicar com o botão direito do mouse sobre a _Barra de Ferramentas de Acesso Rápido_.
 * Clicar na opção _Personalizar Barra de Ferramentas de Acesso Rápido_.
 
-![Image_001](https://github.com/felipebacelo/Suplementos/blob/main/Images/Image_001.png)
+![Image_001](https://github.com/felipebacelo/Suplementos/blob/master/Images/Image_001.png)
 
 Aparecerá a caixa _Opções do Excel_, nesta caixa o usuário deverá selecionar _Macros_ no menu _Escolher comandos em_.
 
-![Image_002](https://github.com/felipebacelo/Suplementos/blob/main/Images/Image_002.png)
+![Image_002](https://github.com/felipebacelo/Suplementos/blob/master/Images/Image_002.png)
 
 Em seguida o usuário poderá adicionar os ícones das respectivas macros a _Barra de Ferramentas de Acesso Rápido_.
 
-![Image_003](https://github.com/felipebacelo/Suplementos/blob/main/Images/Image_003.png)
+![Image_003](https://github.com/felipebacelo/Suplementos/blob/master/Images/Image_003.png)
 
 Após selecionar as macros que deseja utilizar, o usuário deverá configurar o Excel para que o arquivo __Suplementos__ inicialize junto com o Excel.
 Para isto é necessário: 
@@ -63,7 +63,7 @@ Para isto é necessário:
 * Na caixa de _Suplementos_ o usuário precisará _Procurar_ o diretório em que o arquivo __Suplementos__ está salvo.
 * Após localizar o arquivo o usuário deverá marcá-lo e confirmar com OK para que o arquivo __Suplementos__ seja inicializado junto com o Excel.
 
-![Image_004](https://github.com/felipebacelo/Suplementos/blob/main/Images/Image_004.png)
+![Image_004](https://github.com/felipebacelo/Suplementos/blob/master/Images/Image_004.png)
 ***
 ### Exemplos de Macros Utilizadas
 
